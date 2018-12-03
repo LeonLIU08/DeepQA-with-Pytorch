@@ -38,17 +38,17 @@ Project folder
         </tr>
         <tr>
             <th>deep QA</th>
-            <th>xxxxx</th>
-            <th>xxxxx</th>
-            <th>xxxxx</th>
-            <th>xxxxx</th>
+            <th>0.947</th>
+            <th>0.939</th>
+            <th>0.982</th>
+            <th>0.981</th>
         </tr>
         <tr>
             <th>This code</th>
-            <th>xxxxx</th>
-            <th>xxxxx</th>
-            <th>xxxxx</th>
-            <th>xxxxx</th>
+            <th>0.929</th>
+            <th>0.924</th>
+            <th>0.971</th>
+            <th>0.967</th>
         </tr>
     </table>
 
