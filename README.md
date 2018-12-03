@@ -26,9 +26,35 @@ Project folder
 
 
 ## Performance
+
+### The overall performance
+<table>
+        <tr>
+            <th> </th>
+            <th>TID13-LCC</th>
+            <th>TID13-SROCC</th>
+            <th>LIVE-LCC</th>
+            <th>LIVE-SROCC</th>
+        </tr>
+        <tr>
+            <th>deep QA</th>
+            <th>xxxxx</th>
+            <th>xxxxx</th>
+            <th>xxxxx</th>
+            <th>xxxxx</th>
+        </tr>
+        <tr>
+            <th>This code</th>
+            <th>xxxxx</th>
+            <th>xxxxx</th>
+            <th>xxxxx</th>
+            <th>xxxxx</th>
+        </tr>
+    </table>
+
 The "results" folder contains the training process and two examples for both LIVE and TID2013 datasets.
 
-The training process:
+### The training process:
 
 **LIVE** 
 <div align=center><img width="600" src="https://github.com/LeonLIU08/DeepQA-with-Pytorch/blob/master/results/LIVEtrainhist.png?raw=true"/></div>
