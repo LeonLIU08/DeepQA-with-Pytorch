@@ -6,9 +6,9 @@ This project aims to reimplement the work "Deep Learning of Human Visual Sensiti
 
 This project folder should be included in a upper directory with the database data as following:
 
-'--mother folder'
+`--mother folder`
 
-'----data'
+`----data`
 
 '------LIVE_dataset'
 
