@@ -7,30 +7,18 @@ This project aims to reimplement the work "Deep Learning of Human Visual Sensiti
 This project folder should be included in a upper directory with the database data as following:
 
 ```
-project
-│   README.md
-│   file001.txt    
+Project folder
+└───DeepQA-with-Pytorch
+│   │   README.md
+│   │   train_LIVE.py
+│   │   train_TID2013.py
+│   └───datasets
+│   └───models
+│   └───snapshots
+│   └───utils
 │
-└───folder1
-│   │   file011.txt
-│   │   file012.txt
-│   │
-│   └───subfolder1
-│       │   file111.txt
-│       │   file112.txt
-│       │   ...
-│   
-└───folder2
-    │   file021.txt
-    │   file022.txt
+└───data
+│    └───LIVE_dataset
+│    └───TID2013_dataset
 ```
 
-`--mother folder`
-
-`----data`
-
-'------LIVE_dataset'
-
-'------TID2013_dataset'
-
-'----this code'
