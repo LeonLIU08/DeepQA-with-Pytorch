@@ -32,5 +32,6 @@ The training process:
 
 **LIVE** 
 ![LIVEtrain](https://github.com/LeonLIU08/DeepQA-with-Pytorch/blob/master/results/LIVEtrainhist.png?raw=true){:height="70%" width="70%"}
+
 **TID2013**
 ![TID13train](https://github.com/LeonLIU08/DeepQA-with-Pytorch/blob/master/results/TID2013trainhist.png?raw=true){:height="70%" width="70%"}
