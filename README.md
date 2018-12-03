@@ -31,7 +31,8 @@ The "results" folder contains the training process and two examples for both LIV
 The training process:
 
 **LIVE** 
-<div align=center><img width="150" src="https://github.com/LeonLIU08/DeepQA-with-Pytorch/blob/master/results/LIVEtrainhist.png?raw=true"/></div>
+<div align=center><img width="600" src="https://github.com/LeonLIU08/DeepQA-with-Pytorch/blob/master/results/LIVEtrainhist.png?raw=true"/></div>
 
 **TID2013**
-![TID13train](https://github.com/LeonLIU08/DeepQA-with-Pytorch/blob/master/results/TID2013trainhist.png?raw=true){:height="70%" width="70%"}
+<div align=center><img width="600" src="https://github.com/LeonLIU08/DeepQA-with-Pytorch/blob/master/results/TID2013trainhist.png?raw=true"/></div>
+
