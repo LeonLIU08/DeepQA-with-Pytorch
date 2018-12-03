@@ -9,9 +9,9 @@ This project folder should be included in a upper directory with the database da
 ```
 Project folder
 └───DeepQA-with-Pytorch
-│   │   README.md
-│   │   train_LIVE.py
-│   │   train_TID2013.py
+│   │     README.md
+│   │     train_LIVE.py
+│   │     train_TID2013.py
 │   └───datasets
 │   └───models
 │   └───snapshots
@@ -21,4 +21,9 @@ Project folder
 │    └───LIVE_dataset
 │    └───TID2013_dataset
 ```
+
+## How to use
+
+
+## Performance
 
