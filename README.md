@@ -5,8 +5,13 @@ This project aims to reimplement the work "Deep Learning of Human Visual Sensiti
 ## File structure
 
 This project folder should be included in a upper directory with the database data as following:
+
 '--mother folder'
+
 '----data'
+
 '------LIVE_dataset'
+
 '------TID2013_dataset'
+
 '----this code'
