@@ -29,7 +29,8 @@ Project folder
 The "results" folder contains the training process and two examples for both LIVE and TID2013 datasets.
 
 The training process:
-LIVE 
+
+**LIVE** 
 ![LIVEtrain](https://github.com/LeonLIU08/DeepQA-with-Pytorch/blob/master/results/LIVEtrainhist.png?raw=true)
-TID2013
+**TID2013**
 ![TID13train](https://github.com/LeonLIU08/DeepQA-with-Pytorch/blob/master/results/TID2013trainhist.png?raw=true)
