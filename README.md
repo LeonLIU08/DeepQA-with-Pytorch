@@ -62,3 +62,10 @@ The "results" folder contains the training process and two examples for both LIV
 **TID2013**
 <div align=center><img width="600" src="https://github.com/LeonLIU08/DeepQA-with-Pytorch/blob/master/results/TID2013trainhist.png?raw=true"/></div>
 
+**Two examples from LIVE** 
+<div align=center><img width="600" src="https://github.com/LeonLIU08/DeepQA-with-Pytorch/blob/master/results/LIVE_exp1.png"/></div>
+<div align=center><img width="600" src="https://github.com/LeonLIU08/DeepQA-with-Pytorch/blob/master/results/LIVE_exp2.png"/></div>
+
+**Two examples from TID2013** 
+<div align=center><img width="600" src="https://github.com/LeonLIU08/DeepQA-with-Pytorch/blob/master/results/TID13_exp1.png"/></div>
+<div align=center><img width="600" src="https://github.com/LeonLIU08/DeepQA-with-Pytorch/blob/master/results/TID13_exp2.png"/></div>
